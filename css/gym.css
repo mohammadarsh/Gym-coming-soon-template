@@ -1,0 +1,37 @@
+body{
+    background-image: url(../images/bgGymOp.png);
+    background-size: cover;
+    font-family: 'Acme', sans-serif;
+}
+div {
+    background-color: #dd4814;
+    width: 50%;
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 20px;
+    margin-right: 6px auto;
+   
+    
+    
+
+}
+h1{
+     font-size: 4em;
+    
+}
+button{
+    background: lightgray;
+
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Acme', sans-serif;
+    font-size: 1em;
+    
+}
+p{
+    font-size: 2em;
+}
+i{
+    color: aliceblue;
+}
