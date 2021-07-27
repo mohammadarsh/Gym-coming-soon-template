@@ -1,6 +1,7 @@
 body{
     background-image: url(../images/bgGymOp.png);
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: 'Acme', sans-serif;
 }
 div {
@@ -9,7 +10,7 @@ div {
     text-align: center;
     margin: 100px auto;
     border-radius: 20px;
-    margin-right: 6px auto;
+    
    
     
     
